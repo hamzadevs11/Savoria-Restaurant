@@ -26,9 +26,9 @@ export default function Footer() {
           <div>
             <h4 style={{ fontSize: '0.72rem', textTransform: 'uppercase', letterSpacing: '0.12em', color: 'rgba(245,240,232,0.3)', marginBottom: '1rem', fontFamily: 'var(--font-dm-sans), DM Sans, sans-serif' }}>Contact</h4>
             <div style={{ display: 'flex', flexDirection: 'column', gap: '10px', fontSize: '0.85rem', color: 'rgba(245,240,232,0.5)', fontFamily: 'var(--font-dm-sans), DM Sans, sans-serif' }}>
-              <span>📍 12 Gourmet Lane, New York</span>
-              <span>📞 +1 (555) 123-4567</span>
-              <span>✉️ hello@savoria.com</span>
+              <span>📍 This Is only Sample Website Complete Dveloped By HAMZA</span>
+              <span>📞 +92 349 4103037</span>
+              <span>✉️ hamza.hcfounder@gmail.com</span>
               <span>🕐 Mon–Sun: 12 PM – 11 PM</span>
             </div>
           </div>
